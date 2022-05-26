@@ -1,2 +1,4 @@
 AutomationControllerUsage/collections/*
 !AutomationControllerUsage/collections/requirements.yml
+AutomationControllerUsage/Ansible-AWS-Provisioning/collections/*
+!AutomationControllerUsage/Ansible-AWS-Provisioning/collections/requirements.yml
